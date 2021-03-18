@@ -1,6 +1,7 @@
 # 13-ECommerce-Backend
 ECommerce Backend built using express, node, and sequeliz and tested in Insomnia
-* [Video Demo](https://drive.google.com/file/d/1HTJ0Mnm1HaJWUUJ5eIjfvqcTq4OFFoUh/view)
+* [Video Demo of MYSQL shell creation (1 of 2)](https://drive.google.com/file/d/18H0503PFNZo2XPRZP24g4XJ3837DemRE/view)
+* [Video Demo of Insomia Tests (2 of 2)](https://drive.google.com/file/d/1HTJ0Mnm1HaJWUUJ5eIjfvqcTq4OFFoUh/view)
 
 ## Overview
 
